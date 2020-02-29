@@ -15,3 +15,11 @@ If you find code or data helpful , please cite
   pages={558--563},
   year={2019}
 }
+
+
+Argumentation datasets are available
+
+MT - MicroText
+PE - Persuasive essays
+WD - Web Discourse
+claimnoclaim - CMV
