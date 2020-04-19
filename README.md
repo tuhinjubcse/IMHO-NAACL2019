@@ -1,8 +1,9 @@
 # IMHO-NAACL2019
 Code for NAACL Paper (IMHO Fine-Tuning Improves Claim Detection)
 
-Get Data from Bitbucket link mentioned in paper  (https://bitbucket.org/tuhinch/imho-naacl2019/src/master/)
-And train.
+Get Data from Bitbucket link mentioned in paper  (https://bitbucket.org/tuhinch/imho-naacl2019/src/master/) And train.
+
+
 Please note code is implemented on earlier version of ULMFIT 
 
 
